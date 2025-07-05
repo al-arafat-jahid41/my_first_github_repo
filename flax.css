@@ -1,0 +1,14 @@
+.outer{
+    height: 250px;
+    width: 300px;
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.innar{
+    height: 100px;
+    width: 70px;
+    background-color: blue;
+    justify-items: bu;
+}
