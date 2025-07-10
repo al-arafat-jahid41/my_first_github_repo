@@ -1,0 +1,29 @@
+ body{
+    background-color: rgb(189, 183, 176);
+
+ }
+ .Text_bannar{
+   display:flex;
+   align-items: center;
+   gap: 40px;
+   background-color: rgb(173, 159, 149);  
+   max-width: 1000px;
+   margin: 0 auto;
+   padding: 20px;
+   border-radius: 10px;
+   font-size: 1.2em;
+ }
+
+ .Text_bannar img{
+          width: 100%;
+     height: 300px;
+     border-radius: 10px;
+ }
+ .Text_bannar button{
+    background-color: rgba(135, 122, 122, 0.874);
+     padding: 10px;
+     font-size: 1em;
+     margin-top:60px ;
+     cursor: pointer;
+     border-radius: 10px;
+ }

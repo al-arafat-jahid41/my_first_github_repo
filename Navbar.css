@@ -1,0 +1,12 @@
+.Flaxi{
+    background-color: rgb(28, 42, 42);
+    display: grid;
+
+}
+a{
+    text-decoration: none;
+}
+li{
+    color: aliceblue;
+    list-style: none;
+}
